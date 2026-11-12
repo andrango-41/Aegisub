@@ -217,4 +217,4 @@ Aegisub is offered as a full free version with all features and updates included
 Don't wait any longer! Download Aegisub now and start creating stunning subtitles for your favorite films and series today!
 
 ---
-**Last updated:** 2026-11-11 18:20:37 UTC
+**Last updated:** 2026-11-12 01:17:04 UTC
